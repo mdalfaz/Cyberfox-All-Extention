@@ -30,7 +30,7 @@ This repository contains a collection of useful XPI files that can be installed 
 
 For a step-by-step video guide on how to set up and use these XPI files, watch the video below:
 
-[![Watch the tutorial](https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png)](https://youtube.com/watch?v=YourVideoID)
+[![Watch the tutorial](https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png)](https://youtu.be/CURNNLUvOPE)
 
 > Replace `YourVideoID` with the actual ID of the YouTube video you want to link.
 
